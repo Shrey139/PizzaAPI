@@ -16,3 +16,11 @@ An API for ordering Pizza
 * Create User **[post Request]**
 
 > http://localhost:8000/pizza/
+
+
+## ADMIN
+
+* Credentials
+
+> USERNAME: admin
+> PASSWORD: admin
