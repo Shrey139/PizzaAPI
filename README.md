@@ -23,4 +23,5 @@ An API for ordering Pizza
 * Credentials
 
 > USERNAME: admin
+
 > PASSWORD: admin
