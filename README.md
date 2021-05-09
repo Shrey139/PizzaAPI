@@ -1,18 +1,27 @@
 # PizzaAPI
 An API for ordering Pizza
 
-# Project Installation & Run
+# Project Installation & Run:
 
-## Installation
+## Installation:
+
+* Activate Virtual Enviorment
 
 > `source venv/Scripts/activat`
 
+* Install all the requirements
+
 > `pip install -r requirements.txt`
 
-## Run project
+## Run project:
+
+* Migrate your project first
+
 > `python manage.py makemigrations`
 
 > `python manage.py migrate`
+
+* Run
 
 > `python manage.py runserver`
 
@@ -33,7 +42,7 @@ An API for ordering Pizza
 > http://localhost:8000/pizza/
 
 
-## ADMIN
+## Admin:
 
 * Credentials
 
