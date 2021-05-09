@@ -1,6 +1,12 @@
 # PizzaAPI
 An API for ordering Pizza
 
+## Project Installation
+
+> `source venv/Scripts/activat`
+
+> `pip install -r requirements.txt`
+
 # API :
 
 ## USER
