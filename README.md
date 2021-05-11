@@ -31,15 +31,15 @@ An API for ordering Pizza
 
 * Get all the pizza **[get Request]**
 
-> http://localhost:8000/pizza/
+> http://localhost:8000/api/v1pizza/
 
 * Get user by ID **[get Request]**
 
-> http://localhost:8000/pizza/**id**
+> http://localhost:8000/api/v1/pizza/**id**
 
 * Create User **[post Request]**
 
-> http://localhost:8000/pizza/
+> http://localhost:8000/api/v1/pizza/
 
 
 ## Admin:
